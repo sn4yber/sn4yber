@@ -1,11 +1,11 @@
-# 👋 ¡Hola! Soy Snayber Madrid
+#  🍥 ¡Hola! Soy Snayber Madrid
 
 **Fullstack Developer | Estudiante de Ingeniería de Sistemas**
 *Creando soluciones tecnológicas completas con propósito y significado*
 
 ---
 
-## 🚀 Sobre mí
+##  👨🏾‍💻 Sobre mí
 
 Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **Universidad Tecnológica de Bolívar** con una gran pasión por crear soluciones tecnológicas útiles y con significado real.
 
