@@ -21,7 +21,8 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **univer
 ## 🛠️ Stack Tecnológico Fullstack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/23fa2099-a056-40e4-8c51-7bdd4255c08e" />
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
