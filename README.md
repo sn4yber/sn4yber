@@ -7,12 +7,13 @@
 
 ## 🚀 Sobre mí
 
-Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **universidad rafael nuñez** con una gran pasión por crear soluciones tecnológicas útiles y con significado real.
+Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **universidad Rafael nuñez** con una gran pasión por crear soluciones tecnológicas útiles y con significado real.
 
 - 🎯 **Enfoque**: Desarrollador Fullstack con versatilidad para especializarme donde sea necesario
 - 💡 **Filosofía**: La programación no es solo código, es una forma de expresar y resolver
-- 🔧 **Especialidad**: Del backend robusto al frontend intuitivo - domino toda la pila tecnológica
+- 🔧 **Especialidad**: Del backend robusto con Spring Boot y FastAPI al frontend intuitivo - domino toda la pila tecnológica
 - 🌱 **Adaptabilidad**: Puedo trabajar y especializarme en cualquier área según las necesidades del proyecto
+- 🚀 **Frameworks**: Experiencia con Spring Boot (Java), FastAPI (Python) y Node.js para APIs escalables
 - 🎨 **Meta**: Crear experiencias completas que conecten con las personas desde la base de datos hasta la interfaz
 
 ---
@@ -22,6 +23,12 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **univer
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frameworks Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
