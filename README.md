@@ -1,11 +1,11 @@
-# 👋 ¡Hola! Soy Snayber Madrid
+#  ¡Hola! Soy Snayber Madrid
 
 **Fullstack Developer | Estudiante de Ingeniería de Sistemas**
 *Creando soluciones tecnológicas completas con propósito y significado*
 
 ---
 
-## 🚀 Sobre mí
+##  👨🏾‍💻 Sobre mí
 
 Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **universidad Rafael nuñez** con una gran pasión por crear soluciones tecnológicas útiles y con significado real.
 
@@ -58,7 +58,7 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **univer
 
 ---
 
-## 🎯 Mi Filosofía Fullstack
+## 🎯 Mi mindset
 
 > *"Disfruto programar desde la arquitectura del backend hasta la experiencia del usuario en frontend. Me gusta que cada proyecto tenga un propósito real: desde automatizar tareas cotidianas hasta desarrollar soluciones completas que conecten con las personas a través de toda la pila tecnológica."*
 
