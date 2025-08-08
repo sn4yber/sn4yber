@@ -1,13 +1,13 @@
-#  ¡Hola! Soy Snayber Madrid
+# 👋 ¡Hola! Soy Snayber Madrid
 
 **Fullstack Developer | Estudiante de Ingeniería de Sistemas**
 *Creando soluciones tecnológicas completas con propósito y significado*
 
 ---
 
-##  👨🏾‍💻 Sobre mí
+## 🚀 Sobre mí
 
-Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **universidad Rafael nuñez** con una gran pasión por crear soluciones tecnológicas útiles y con significado real.
+Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **Universidad Tecnológica de Bolívar** con una gran pasión por crear soluciones tecnológicas útiles y con significado real.
 
 - 🎯 **Enfoque**: Desarrollador Fullstack con versatilidad para especializarme donde sea necesario
 - 💡 **Filosofía**: La programación no es solo código, es una forma de expresar y resolver
@@ -21,31 +21,45 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **univer
 ## 🛠️ Stack Tecnológico Fullstack
 
 ### Backend
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/23fa2099-a056-40e4-8c51-7bdd4255c08e" />
+<p align="left">
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7c471b9c-917d-435b-ac55-8b58e6c11e7e" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d23df4dd-d52b-4d52-b77e-fb476697af0e" />
+
+
+
+</p>
 
 ### Frameworks Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="max-width: 100%;"/>
+</p>
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width: 100%;"/>
+</p>
 
 ### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="max-width: 100%;"/>
+</p>
 
 ### Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="max-width: 100%;"/>
+</p>
 
 ### Herramientas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="max-width: 100%;"/>
+</p>
 
 ---
 
@@ -59,7 +73,7 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **univer
 
 ---
 
-## 🎯 Mi mindset
+## 🎯 Mi Filosofía Fullstack
 
 > *"Disfruto programar desde la arquitectura del backend hasta la experiencia del usuario en frontend. Me gusta que cada proyecto tenga un propósito real: desde automatizar tareas cotidianas hasta desarrollar soluciones completas que conecten con las personas a través de toda la pila tecnológica."*
 
