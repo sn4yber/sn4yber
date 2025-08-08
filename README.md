@@ -66,7 +66,8 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **Univer
 
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=sn4yber&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sn4yber&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sn4yber&theme=tokyonight&hide_border=true&locale=es)
+
 
 ---
 
