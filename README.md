@@ -22,12 +22,9 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **Univer
 
 ### Backend
 <p align="left">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7c471b9c-917d-435b-ac55-8b58e6c11e7e" />
-
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d23df4dd-d52b-4d52-b77e-fb476697af0e" />
-
-
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="max-width: 100%;"/>
 </p>
 
 ### Frameworks Backend
