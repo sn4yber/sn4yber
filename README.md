@@ -25,8 +25,7 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **Univer
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="max-width: 100%;"/>
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/47fb31ca-52dd-4adb-b465-666787775203" />
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="max-width: 100%;"/>
 </p>
 
 ### Frameworks Backend
@@ -34,8 +33,7 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **Univer
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="max-width: 100%;"/>
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/323341ab-dfde-48db-9757-2f9011001655" />
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="max-width: 100%;"/>
 </p>
 
 ### Frontend
@@ -71,7 +69,6 @@ Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **Univer
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=sn4yber&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sn4yber&theme=tokyonight&hide_border=true&locale=es)
-
 
 ---
 
@@ -121,4 +118,4 @@ Un espacio donde comparto:
 
 ---
 
-*⚡ Siempre abierto a colaborar en proyectos interesantes y con propósito ⚡*
+*⚡ Siempre abierto a colaborar en proyectos interesantes y desafiantes!*
