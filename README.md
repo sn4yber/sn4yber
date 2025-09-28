@@ -58,7 +58,6 @@ const snayber = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" />
   <br>
-  <img src="https://skillicons.dev/icons?i=arduino" />
 </div>
 
 </td>
