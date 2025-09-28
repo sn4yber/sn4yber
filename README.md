@@ -1,122 +1,117 @@
-#  🍥 ¡Hola! Soy Snayber Madrid
+# 👋 Hola, soy **Snayber Madrid**
 
-**Fullstack Developer | Estudiante de Ingeniería de Sistemas**
-*Creando soluciones tecnológicas completas con propósito y significado*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Estudiante+de+Ingenier%C3%ADa;Creando+soluciones+con+prop%C3%B3sito" alt="Typing SVG" />
+</div>
 
----
-
-##  👨🏾‍💻 Sobre mí
-
-Soy **Snayber Madrid**, estudiante de **Ingeniería de Sistemas** en la **Universidad Tecnológica de Bolívar** con una gran pasión por crear soluciones tecnológicas útiles y con significado real.
-
-- 🎯 **Enfoque**: Desarrollador Fullstack con versatilidad para especializarme donde sea necesario
-- 💡 **Filosofía**: La programación no es solo código, es una forma de expresar y resolver
-- 🔧 **Especialidad**: Del backend robusto con Spring Boot y FastAPI al frontend intuitivo - domino toda la pila tecnológica
-- 🌱 **Adaptabilidad**: Puedo trabajar y especializarme en cualquier área según las necesidades del proyecto
-- 🚀 **Frameworks**: Experiencia con Spring Boot (Java), FastAPI (Python) y Node.js para APIs escalables
-- 🎨 **Meta**: Crear experiencias completas que conecten con las personas desde la base de datos hasta la interfaz
-
----
-
-## 🛠️ Stack Tecnológico Fullstack
-
-### Backend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="max-width: 100%;"/>
-</p>
-
-### Frameworks Backend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="max-width: 100%;"/>
-</p>
-
-### Frontend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width: 100%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="max-width: 100%;"/>
-
-</p>
-
-### Bases de Datos
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="max-width: 100%;"/>
-</p>
-
-### Hardware & IoT
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" style="max-width: 100%;"/>
-</p>
-
-### Herramientas & Plataformas
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="max-width: 100%;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="max-width: 100%;"/>
+<p align="center">
+  <em>🚀 Transformando ideas en soluciones tecnológicas completas</em>
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🌟 **Sobre mí**
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sn4yber&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+```javascript
+const snayber = {
+  ubicacion: "Colombia 🇨🇴",
+  educacion: "Ingeniería de Sistemas - UTB",
+  rol: "Fullstack Developer",
+  filosofia: "La programación es una forma de expresar y resolver",
+  especializacion: "Adaptable a cualquier área según las necesidades",
+  pasion: ["Backend robusto", "Frontend intuitivo", "Soluciones completas"]
+};
+```
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=sn4yber&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sn4yber&theme=tokyonight&hide_border=true&locale=es)
-
----
-
-## 🎯 Mi Filosofía Fullstack
-
-> *"Disfruto programar desde la arquitectura del backend hasta la experiencia del usuario en frontend. Me gusta que cada proyecto tenga un propósito real: desde automatizar tareas cotidianas hasta desarrollar soluciones completas que conecten con las personas a través de toda la pila tecnológica."*
-
-### 💭 Mi versatilidad como desarrollador:
-- ⚡ **Full Stack Mindset**: Comprendo tanto la lógica del servidor como la experiencia del usuario
-- 🎯 **Especialización adaptable**: Puedo profundizar en backend, frontend o fullstack según el proyecto
-- 🤝 **Visión integral**: Veo cada aplicación como un ecosistema completo
-- 🔄 **Aprendizaje continuo**: Siempre explorando nuevas tecnologías en ambos extremos del desarrollo
-- ✨ **Propósito en cada capa**: Desde la base de datos hasta el último pixel, todo debe tener sentido
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sn4yber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn4yber&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
 
 ---
 
-## 🌐 Encuéntrame en
+## 🛠️ **Stack Tecnológico**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://sn4yber-blog.netlify.app/)
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔧 Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,typescript" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,express" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Bases de Datos & Herramientas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sn4yber&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sn4yber&theme=tokyonight&no-frame=true&column=4&margin-w=15" width="49%" />
+</div>
+
+---
+
+## 💫 **Mi Filosofía**
+
+<div align="center">
+  
+> *"Disfruto programar desde la arquitectura del backend hasta la experiencia del usuario. Cada proyecto debe tener un propósito real y conectar con las personas a través de toda la pila tecnológica."*
+
+</div>
+
+### ✨ **¿Qué me define?**
+
+🎯 **Versatilidad** • Puedo especializarme en cualquier área según el proyecto  
+⚡ **Visión Integral** • Comprendo toda la pila desde la base de datos hasta la UI  
+🤝 **Propósito Real** • Cada línea de código debe resolver un problema genuino  
+🔄 **Aprendizaje Continuo** • Siempre explorando nuevas tecnologías  
+
+---
+
+## 🌐 **Conecta conmigo**
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://sn4yber-blog.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn4yber)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snayber-madrid)
+[![Blog](https://img.shields.io/badge/📝_Blog-36BCF7?style=for-the-badge&logoColor=white)](https://sn4yber-blog.netlify.app/)
+
+</div>
 
 ---
 
-## 📝 Blog Personal
+## 🎯 **Disponible para colaborar**
 
-🌟 **Visita mi blog**: [sn4yber-blog.netlify.app](https://sn4yber-blog.netlify.app/)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&text=Siempre%20abierto%20a%20proyectos%20desafiantes&fontSize=24&fontColor=fff&animation=twinkling" />
+</div>
 
-Un espacio donde comparto:
-- 💭 Pensamientos y reflexiones
-- 🎯 Metas y objetivos
-- 🚀 Proyectos en desarrollo
-- 📚 Experiencias de aprendizaje
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sn4yber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-![Visitas al perfil](https://komarev.com/ghpvc/?username=sn4yber&label=Visitas%20al%20perfil&color=36BCF7&style=for-the-badge)
-
-### 💻 "La programación es una forma de expresar y resolver" 💻
-
----
-
-*⚡ Siempre abierto a colaborar en proyectos interesantes y desafiantes!*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sn4yber&label=Visitas&color=36BCF7&style=for-the-badge" />
+</div>
