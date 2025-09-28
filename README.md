@@ -14,11 +14,11 @@
 
 ```javascript
 const snayber = {
-  ubicacion: "Colombia 🇨🇴",
-  educacion: "Ingeniería de Sistemas - UTB",
+  ubicacion: "cartagena ,Colombia 🇨🇴",
+  educacion: "Ingeniería de Sistemas - uninuñez",
   rol: "Fullstack Developer",
-  filosofia: "La programación es una forma de expresar y resolver",
-  especializacion: "Adaptable a cualquier área según las necesidades",
+  filosofia: "La programación es una forma de expresar y resolver  caulqier cosa",
+  especializacion: "versatil pero con mas inclinacion front ",
   pasion: ["Backend robusto", "Frontend intuitivo", "Soluciones completas"]
 };
 ```
