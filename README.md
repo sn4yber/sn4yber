@@ -17,7 +17,7 @@ const snayber = {
   ubicacion: "cartagena ,Colombia 🇨🇴",
   educacion: "Ingeniería de Sistemas - uninuñez",
   rol: "Fullstack Developer",
-  filosofia: "La programación es una forma de expresar y resolver  caulqier cosa",
+  filosofia: "La programación es una forma de expresar y resolver  cualqier cosa",
   especializacion: "versatil pero con mas inclinacion front ",
   pasion: ["Backend robusto", "Frontend intuitivo", "Soluciones completas"]
 };
