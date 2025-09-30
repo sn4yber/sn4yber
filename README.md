@@ -38,7 +38,7 @@ const snayber = {
 
 ### 🔧 Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,typescript" />
   <br>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,express" />
 </div>
