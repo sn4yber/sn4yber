@@ -40,7 +40,7 @@ const snayber = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,typescript" />
   <br>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,express" />
+  <img src="https://skillicons.dev/icons?i=spring,express" />
 </div>
 
 </td>
