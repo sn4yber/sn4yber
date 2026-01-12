@@ -1,50 +1,116 @@
-👋 Hola, soy Snayber Madrid
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Frontend+Specialist;Building+Modern+Web+%26+Mobile+Apps;Clean+Code+Enthusiast" alt="Typing SVG" /> </div> <p align="center"> <em>Transformando ideas en experiencias digitales excepcionales</em> </p>
-
-🎯 Sobre mí
-Fullstack Developer con especialidad en Frontend | Cartagena, Colombia
-
-Estudiante de Ingeniería de Sistemas en UNIÑEZ
-Enfocado en crear interfaces modernas y backends escalables
-Stack principal: Angular, React, React Native, Node.js, Spring Boot
-Filosofía: "El mejor código es el que otros pueden entender y mantener"
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sn4yber&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=58A6FF&text_color=C9D1D9" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sn4yber&theme=react&hide_border=true&background=0D1117&ring=2F81F7&fire=58A6FF&currStreakLabel=C9D1D9" height="165" /> </div>
-
-🛠️ Tech Stack
-Frontend & Mobile
-<div align="center"> <img src="https://skillicons.dev/icons?i=angular,react,typescript,js,html,css,tailwind" alt="Frontend Stack" /> </div>
-
-Backend
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,java,spring" alt="Backend Stack" /> </div>
-
-Database & Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=postgres,git,postman,vscode" alt="Tools" /> </div>
-
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn4yber&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8" width="48%" /> <img src="https://github-profile-trophy.vercel.app/?username=sn4yber&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" width="48%" /> </div>
-
-💼 Mi Enfoque
-<table> <tr> <td width="50%">
-
-Frontend Development
-Interfaces modernas y responsivas
-Arquitectura de componentes escalable
-Performance optimization
-Clean code principles
-</td> <td width="50%">
-
-Backend Development
-APIs REST bien diseñadas
-Arquitectura de microservicios
-Seguridad y autenticación
-Bases de datos relacionales
-</td> </tr> </table>
-
-🌐 Conecta conmigo
-<div align="center"> <a href="https://sn4yber-blog.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> </a> <a href="https://github.com/sn4yber" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://linkedin.com/in/snayber-madrid" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://sn4yber-blog.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Blog-2F81F7?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /> </a> </div>
+# 👋 Hola, soy **Snayber Madrid**
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Estudiante+de+Ingenier%C3%ADa;Creando+soluciones+con+prop%C3%B3sito" alt="Typing SVG" />
+</div>
 
-Abierto a colaboraciones en proyectos desafiantes
+<p align="center">
+  <em>🚀 Transformando ideas en soluciones tecnológicas completas</em>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=sn4yber&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" /> </div>
+---
+
+## 🌟 **Sobre mí**
+
+```javascript
+const snayber = {
+  ubicacion: "cartagena ,Colombia 🇨🇴",
+  educacion: "Ingeniería de Sistemas - uninuñez",
+  rol: "Fullstack Developer",
+  filosofia: "La programación es una forma de expresar y resolver  cualqier cosa",
+  especializacion: "versatil pero con mas inclinacion front ",
+  pasion: ["Backend robusto", "Frontend intuitivo", "Soluciones completas"]
+};
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sn4yber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn4yber&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+---
+
+## 🛠️ **Stack Tecnológico**
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔧 Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,typescript" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,express" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Bases de Datos & Herramientas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" />
+  <br>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sn4yber&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sn4yber&theme=tokyonight&no-frame=true&column=4&margin-w=15" width="49%" />
+</div>
+
+---
+
+## 💫 **Mi Filosofía**
+
+<div align="center">
+  
+> *"Disfruto programar desde la arquitectura del backend hasta la experiencia del usuario. Cada proyecto debe tener un propósito real y conectar con las personas a través de toda la pila tecnológica."*
+
+</div>
+
+### ✨ **¿Qué me define?**
+
+🎯 **Versatilidad** • Puedo especializarme en cualquier área según el proyecto  
+⚡ **Visión Integral** • Comprendo toda la pila desde la base de datos hasta la UI  
+🤝 **Propósito Real** • Cada línea de código debe resolver un problema genuino  
+🔄 **Aprendizaje Continuo** • Siempre explorando nuevas tecnologías  
+
+---
+
+## 🌐 **Conecta conmigo**
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://sn4yber-blog.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn4yber)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snayber-madrid)
+[![Blog](https://img.shields.io/badge/📝_Blog-36BCF7?style=for-the-badge&logoColor=white)](https://sn4yber-blog.netlify.app/)
+
+</div>
+
+---
+
+## 🎯 **Disponible para colaborar**
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&text=Siempre%20abierto%20a%20proyectos%20desafiantes&fontSize=24&fontColor=fff&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sn4yber&label=Visitas&color=36BCF7&style=for-the-badge" />
+</div>
