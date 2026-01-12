@@ -37,32 +37,19 @@ const snayber = {
 <td valign="top" width="33%">
 
 ### 🔧 Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,typescript" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=spring,express" />
-</div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,nodejs,typescript" /> <br> <img src="https://skillicons.dev/icons?i=spring,express" /> </div> </td> <td valign="top" width="33%">
 
 </td>
 <td valign="top" width="33%">
 
-### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</div>
+### 🎨 Frontend y mobile
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,angular,typescript,js" /> <br> <img src="https://skillicons.dev/icons?i=html,css,tailwind" /> </div> </td> <td valign="top" width="33%">
 
 </td>
 <td valign="top" width="33%">
 
 ### 🗄️ Bases de Datos & Herramientas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" />
-  <br>
-</div>
-
-</td>
-</tr>
-</table>
+<div align="center"> <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" /> <br> <img src="https://skillicons.dev/icons?i=postman" /> </div> </td> </tr> </table>
 
 ---
 
